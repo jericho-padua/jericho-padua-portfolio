@@ -77,3 +77,14 @@ input[type='submit']:active {
     width: 800px;
   }
 }
+.successMessage {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 1.2em;
+  background-color: #e0ffe0;
+  padding: 10px;
+  border: 2px solid green;
+  border-radius: 5px;
+}
